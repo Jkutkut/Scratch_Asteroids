@@ -5,8 +5,8 @@ Versión simple del juego Asteroids.
 ## Controles:
 w: recto.
 
-mouse: dirección.
+Ratón: dirección.
 
-space: disparar.
+Espacio: disparar.
 
 ![img of Asteroids](https://github.com/Jkutkut/Scratch_Asteroids/blob/master/Asteroids.png)
